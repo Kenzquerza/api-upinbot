@@ -1,6 +1,6 @@
 //_______________________ ┏  Info  ┓ _______________________\\
 //
-//   Credit : AlipBot
+//   Credit : Upinbot
 //   
 //   Note 
 //   Jangan Jual SC ini ,
@@ -8,7 +8,7 @@
 //   Siapa Mahu Upload Jangan Lupa Credit :),
 //   Siapa Tidak Letak Credit Akan Ambil Tindakan
 //   
-//_______________________ ┏ Make By AlipBot ┓ _______________________\\
+//_______________________ ┏ Make By UpinBot ┓ _______________________\\
 
 const express = require('express'); 
 const app = express();
